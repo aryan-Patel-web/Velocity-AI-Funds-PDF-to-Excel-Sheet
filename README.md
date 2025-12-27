@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 🎯 **Project Overview**
 
 ### **Problem Statement**
@@ -661,6 +662,7 @@ python main.py
 cd frontend
 npm install
 echo "VITE_API_URL=http://localhost:8000" > .env
+
 npm run dev
 
 # Open http://localhost:5173
